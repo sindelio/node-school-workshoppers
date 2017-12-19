@@ -23,4 +23,4 @@ The **elective** workshoppers studied were:
 Among my solutions for the stream-adventure tutorial there are some of the official solutions because they were much better than mine at the time.
 
 ### Licensing
-This code is distributed under the MIT license.
+This code is distributed under [the MIT license](https://github.com/sindelio/node_school_workshoppers/blob/master/LICENSE).
