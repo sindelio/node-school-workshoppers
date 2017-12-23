@@ -10,14 +10,14 @@ The **core** workshoppers studied were:
 - git-it (Git and Github)
 - how-to-npm (Node Package Manager)
 - how-to-markdown (Markdown language)
-- elementary-electron (Electron framework for Node.js)
+- elementary-electron (Electron framework used to make applications with Node.js)
 - stream-adventure (streams and pipes in Node.js)
 - scope-chains-closures (scopes, chains and closures in Node.js)
 
 The **elective** workshoppers studied were:
 
 - learnyoubash (BASH command interpreter)
-- learnyoureact (React framework for Node.js)
+- learnyoureact (React framework used for server side rendering in Node.js)
 - expressworks (Express framework for Node.js)
 
 ### Note
