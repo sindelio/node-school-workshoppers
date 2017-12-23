@@ -17,10 +17,11 @@ The **core** workshoppers studied were:
 The **elective** workshoppers studied were:
 
 - learnyoubash (BASH command interpreter)
+- learnyoureact (React framework for Node.js)
 - expressworks (Express framework for Node.js)
 
 ### Note
-Among my solutions for the stream-adventure tutorial there are some of the official solutions because they were much better than mine at the time.
+Among my solutions for the workshoppers there are some of the official solutions because they were much better than mine at the time.
 
 ### Licensing
 This code is distributed under [the MIT license](https://github.com/sindelio/node_school_workshoppers/blob/master/LICENSE).
