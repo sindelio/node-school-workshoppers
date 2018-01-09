@@ -2,7 +2,7 @@
 
 These are my solutions for the core NodeSchool workshoppers and a few of the electives. These workshoppers emphasize on learning the Node.js programming language in an active learning process, by writing and testing code.
 
-The **core** workshoppers studied were:
+All **core** workshoppers were studied:
 
 - learnyounode (basic Node.js) 
 - javascripting (Javascript)
@@ -17,8 +17,8 @@ The **core** workshoppers studied were:
 The **elective** workshoppers studied were:
 
 - learnyoubash (BASH command interpreter)
-- learnyoureact (React framework used for server side rendering in Node.js)
-- expressworks (Express framework for Node.js)
+- learnyoureact (coming soon!) (React framework used for server side rendering in Node.js)
+- expressworks (coming soon!) (Express framework for Node.js)
 
 ### Note
 Among my solutions for the workshoppers there are some of the official solutions because they were much better than mine at the time. Also, the git-it and the how-to-npm workshoppers are done in a GUI (Graphical User Interface), so there's no code for those. I took screenshots of their completed state as proof of finishing them.
