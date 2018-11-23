@@ -4,8 +4,8 @@ These are my solutions for the core NodeSchool workshoppers and a few of the ele
 
 All **core** workshoppers were studied:
 
-- learnyounode (basic Node.js) 
-- javascripting (Javascript)
+- learnyounode (Node.js) 
+- javascripting (JavaScript)
 - learnyouhtml (HTML)
 - git-it (Git and Github)
 - how-to-npm (Node Package Manager)
@@ -17,8 +17,9 @@ All **core** workshoppers were studied:
 The **elective** workshoppers studied were:
 
 - learnyoubash (BASH command interpreter)
-- learnyoureact (coming soon!) (React framework used for server side rendering in Node.js)
+- promise-it-wont-hurt (Promises in JavaScript)
 - expressworks (coming soon!) (Express framework for Node.js)
+- learnyoureact (coming soon!) (React framework used for server side rendering in Node.js)
 
 ### Note
 Among my solutions for the workshoppers there are some of the official solutions because they were much better than mine at the time. Also, the git-it and the how-to-npm workshoppers are done in a GUI (Graphical User Interface), so there's no code for those. I took screenshots of their completed state as proof of finishing them.
