@@ -12,10 +12,10 @@ All **core** workshoppers were studied:
 - how-to-markdown (Markdown language)
 - elementary-electron (Electron framework used to make applications with Node.js)
 - stream-adventure (streams and pipes in Node.js)
-- scope-chains-closures (scopes, chains and closures in Node.js)
 
 The **elective** workshoppers studied were:
 
+- scope-chains-closures (scopes, chains and closures in Node.js)
 - learnyoubash (BASH command interpreter)
 - promise-it-wont-hurt (Promises in JavaScript)
 - expressworks (coming soon!) (Express framework for Node.js)
