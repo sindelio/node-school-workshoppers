@@ -15,3 +15,10 @@ Automated diagnostic tools for JS:
 	JSHint
 		- Probably can create a config file as well
 		- Probably rules are customizable
+
+Debugger vs red dot (on VSCode)
+	The 'debugger' keyword brings more clarity to the debugging process,
+	as it stops execution every time the 'debugger' keyword is found.
+	It's harder to see the exact breakpoint using the red dot, although not that much harder.
+	The advantage of using the red dot is to not use an extra line in-code.
+	Note: in VSCode the yellow arrow shows the exact point in the execution flow.
