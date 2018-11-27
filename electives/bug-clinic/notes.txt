@@ -1,0 +1,17 @@
+Important debugging techniques:
+
+1. Monitoring/Logging facilities (Winston, Bunyan)
+2. Static code analysis tools (ESLint, JSHint)
+3. Automated tests (Jest, Mocha)
+4. Interactive REPLs (Terminals)
+5. Informative stack traces, both static and dynamic (modules?)
+6. Scanners for complete status reports (NODE_DEBUG)
+7. Debuggers for step-by-step execution (Built-ins)
+
+Automated diagnostic tools for JS: 
+	ESLint (seems better than JSHINT)
+		- Can create a config file with the --init command
+		- Rules are fully customizable
+	JSHint
+		- Probably can create a config file as well
+		- Probably rules are customizable
