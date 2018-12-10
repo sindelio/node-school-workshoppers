@@ -1,0 +1,4 @@
+- '__dirname' is a global variable that stores the directory where the program file resides.
+- Static served files don't need to be sent to the requester.
+- '.listen' is necessary to start the server.
+- There is a concept of views in express. Those can be set.
