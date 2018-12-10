@@ -20,7 +20,7 @@ The **elective** workshoppers studied were:
 - learnyoubash (BASH command interpreter)
 - promise-it-wont-hurt (Promises in JavaScript)
 - planetptroto (Prototypes in javaScript)
-- expressworks (Server framework for Node.JS)
+- expressworks (Express server framework for Node.JS)
 - learnyoureact (coming soon!) (React framework used for server side rendering in Node.JS)
 
 ### Note
