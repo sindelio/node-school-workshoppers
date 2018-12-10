@@ -19,8 +19,8 @@ The **elective** workshoppers studied were:
 - scope-chains-closures (scopes, chains and closures in Node.JS)
 - learnyoubash (BASH command interpreter)
 - promise-it-wont-hurt (Promises in JavaScript)
-- planetptroto (prototypes in javaScript)
-- expressworks (coming soon!) (Express framework for Node.JS)
+- planetptroto (Prototypes in javaScript)
+- expressworks (Server framework for Node.JS)
 - learnyoureact (coming soon!) (React framework used for server side rendering in Node.JS)
 
 ### Note
